@@ -2,6 +2,8 @@
 
 **Classy-Text** is a lightweight JavaScript library that allows you to easily apply various Google Fonts and custom styles to your HTML elements using a simple attribute-based approach just use `ct:*styleName`. With `classy-text`, you can make your text stand out with different font styles and effects.
 
+Website Link:- https://classy-text.netlify.app/
+
 ## Features
 
 - Simple integration using a CDN link
