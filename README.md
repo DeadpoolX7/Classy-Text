@@ -27,6 +27,8 @@ You can use **classy-text** directly from the CDN. Include the following script 
 # Usage
 To apply styles to your HTML elements, simply add the `ct:*` attribute to the elements where you want to use the styles. Replace * with the name of the desired style.
 
+# Image
+![Output Image]("https://drive.google.com/file/d/1C98sP_0w3UzH1eJj3uQue0-ddkbHQogF/view?usp=sharing")
 
 
 # Available fonts
