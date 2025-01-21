@@ -77,3 +77,4 @@ Contributions are welcome! If you want to contribute to classy-text, please foll
 * Submit a pull request with a clear description of your changes.
 
 # License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
